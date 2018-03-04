@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="GEN_FOLDER_RELATIVE_PATH_APT" value="/../../dart-apps-and-widgets/gen" />
+        <option name="GEN_FOLDER_RELATIVE_PATH_AIDL" value="/../../dart-apps-and-widgets/gen" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/../../dart-apps-and-widgets/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/../../dart-apps-and-widgets/res" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/../../dart-apps-and-widgets/assets" />
+        <option name="LIBS_FOLDER_RELATIVE_PATH" value="/../../dart-apps-and-widgets/libs" />
+        <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/../../dart-apps-and-widgets/proguard_logs" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/gen" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/designs/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/designs/build" />
+      <excludeFolder url="file://$MODULE_DIR$/designs/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/designs/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/image_resizing/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_resizing/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_resizing/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/image_resizing/test/packages" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
