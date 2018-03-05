@@ -25,6 +25,10 @@
       <excludeFolder url="file://$MODULE_DIR$/image_resizing/build" />
       <excludeFolder url="file://$MODULE_DIR$/image_resizing/packages" />
       <excludeFolder url="file://$MODULE_DIR$/image_resizing/test/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/topbar/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/topbar/build" />
+      <excludeFolder url="file://$MODULE_DIR$/topbar/packages" />
+      <excludeFolder url="file://$MODULE_DIR$/topbar/test/packages" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 22 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
